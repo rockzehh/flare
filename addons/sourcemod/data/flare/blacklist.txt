@@ -1,0 +1,8 @@
+//This is so you can block props or npcs from being used without taking them out of the listing.
+"BlackList"
+{
+	"Props"
+	{
+		//"alyx"	"It is prone to crash the server."
+	}
+}

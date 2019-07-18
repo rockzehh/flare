@@ -1,0 +1,36 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.2.3"
+			"Previous"	"1.2.2"
+		}
+		
+		"Notes"	"Updated update url to active repositroy."
+	}
+	
+	"Files"
+	{
+		"Patch"
+		{
+			"Plugin"	"Path_SM/plugins/updater.smx"
+
+			"Source"	"Path_SM/scripting/updater.sp"
+		}
+		
+		"Plugin"	"Path_SM/plugins/updater.smx"
+
+		"Source"	"Path_SM/scripting/updater.sp"
+		"Source"	"Path_SM/scripting/include/updater.inc"
+		"Source"	"Path_SM/scripting/updater/api.sp"
+		"Source"	"Path_SM/scripting/updater/download.sp"
+		"Source"	"Path_SM/scripting/updater/download_curl.sp"
+		"Source"	"Path_SM/scripting/updater/download_socket.sp"
+		"Source"	"Path_SM/scripting/updater/download_steamtools.sp"
+		"Source"	"Path_SM/scripting/updater/download_steamworks.sp"
+		"Source"	"Path_SM/scripting/updater/filesys.sp"
+		"Source"	"Path_SM/scripting/updater/plugins.sp"
+	}
+}

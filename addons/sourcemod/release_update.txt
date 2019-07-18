@@ -1,0 +1,35 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.0-1"
+			"Previous"	"1.0.0-0"
+		}
+		
+		"Notes"	"Set up plugin functions."
+	}
+	
+	"Files"
+	{
+		"Patch"
+		{
+			"Plugin"	"Path_SM/plugins/buttondetector.smx"
+			"Plugin"	"Path_SM/plugins/flare.smx"
+
+			"Source"	"Path_SM/scripting/flare.sp"
+		}
+		
+		"Plugin"	"Path_SM/data/flare/blacklist.txt"
+		"Plugin"	"Path_SM/data/flare/colors.txt"
+		"Plugin"	"Path_SM/data/flare/spawns.txt"
+		"Plugin"	"Path_SM/plugins/buttondetector.smx"
+		"Plugin"	"Path_SM/plugins/flare.smx"
+		
+		"Source"	"Path_SM/scripting/buttondetector.sp"
+		"Source"	"Path_SM/scripting/flare.sp"
+		"Source"	"Path_SM/scrlipting/include/buttondetector.inc"
+		"Source"	"Path_SM/scrlipting/include/morecolors.inc"
+	}
+}
