@@ -11,4 +11,4 @@ I don't know how many updates this mod will get or for how long I'll be doing th
 # Supported Games
 Half-Life 2: Deathmatch
 # Credits
-FusionLock - Created/Coding the mod.
+FusionLock (RockZehh) - Created/Coding the mod.

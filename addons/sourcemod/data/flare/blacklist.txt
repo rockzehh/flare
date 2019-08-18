@@ -5,4 +5,8 @@
 	{
 		//"alyx"	"It is prone to crash the server."
 	}
+	"NPCS"
+	{
+		//"clawscanner"	"It can be used for spam."
+	}
 }
